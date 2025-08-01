@@ -1,0 +1,5 @@
+torch==2.3.0
+CRPS
+pytorchts 
+lightning
+gluonts==0.9.9
