@@ -7,15 +7,18 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Model](https://img.shields.io/badge/model-Diffusion%20%2B%20Graph--Neural--Network-purple)
 
-![X-CGNN Pipeline](Pipeline_GDDPM.png)
-
-
 
 This repository contains the official implementation of the paper:
 
 **[Probabilistic Forecasting of Renewable Energy and Electricity Demand using Graph-based Denoising Diffusion Probabilistic Model (G-DDPM)](https://doi.org/10.1016/j.egyai.2024.100459)**  
 Amir Miraki, Pekka Parviainen, Reza Arghandeh  
 Published in *Energy and AI*, Volume 19, 2025
+
+![X-CGNN Pipeline](Pipeline_GDDPM.png)
+
+
+
+
 
 ## 🌟 Highlights
 
