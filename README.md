@@ -7,7 +7,8 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Model](https://img.shields.io/badge/model-Diffusion%20%2B%20Graph--Neural--Network-purple)
 
-![GDDPM](GDDPM.PNG)
+![X-CGNN Pipeline](Pipeline_GDDPM.png)
+
 
 
 This repository contains the official implementation of the paper:
