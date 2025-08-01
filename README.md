@@ -57,6 +57,5 @@ This repo uses two public datasets:
 ```bash
 git clone https://github.com/AmirMiraki/GDDPM.git
 cd GDDPM
-pip install -r requirements.txt
 
 
