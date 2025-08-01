@@ -2,9 +2,13 @@
 
 **Probabilistic Forecasting of Renewable Energy and Electricity Demand**
 
+
 ![License](https://img.shields.io/badge/license-CC%20BY--4.0-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Model](https://img.shields.io/badge/model-Diffusion%20%2B%20Graph--Neural--Network-purple)
+
+![GDDPM Pipeline](GDDPM.png)
+
 
 This repository contains the official implementation of the paper:
 
